@@ -1,0 +1,15 @@
+# U.S. Prison Population Disparities Dashboard
+
+This Power BI dashboard visualizes racial disparities in U.S. prison populations by comparing incarceration rates to overall demographic data.
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+## Key Features
+- Comparative visuals on race vs. incarceration
+- Filterable views for geographic and demographic insights
+- Data storytelling through visuals
+
+## Tools Used
+- Power BI
+- SQL Server (data backend)
+- U.S. Census and prison population datasets
