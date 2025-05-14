@@ -1,15 +1,34 @@
 # U.S. Prison Population Disparities Dashboard
 
-This Power BI dashboard visualizes racial disparities in U.S. prison populations by comparing incarceration rates to overall demographic data.
+This project uses Power BI and SQL Server to explore and visualize racial disparities in U.S. incarceration. The dashboard compares national demographic data with prison population statistics to highlight systemic disproportionalities by race.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+## Purpose
+
+To demonstrate how data analysis and storytelling can surface structural inequities and drive data-informed decision-making. This project reflects skills directly transferable to business and finance contexts—such as transforming raw data into interactive dashboards, optimizing insights for stakeholder audiences, and designing filterable views for detailed segmentation.
 
 ## Key Features
-- Comparative visuals on race vs. incarceration
-- Filterable views for geographic and demographic insights
-- Data storytelling through visuals
+
+- Visual comparison of racial demographics vs. incarceration rates  
+- Dynamic filters by racial group and incarceration status  
+- Tooltip-assisted visuals for better accessibility and interactivity  
+- Real-time calculations of incarceration rates using DAX formulas  
+- Clean data presentation using card visuals and bar charts
 
 ## Tools Used
-- Power BI
-- SQL Server (data backend)
-- U.S. Census and prison population datasets
+
+- **Power BI** for interactive data visualization  
+- **SQL Server** for data extraction and transformation  
+- **DAX** for custom measures and dynamic filtering logic  
+- **U.S. Census and Prison Population Datasets** (2016) for source data
+
+## What This Demonstrates
+
+- Proficiency in business intelligence tools for reporting and storytelling  
+- SQL-based data cleaning and transformation  
+- Ability to communicate complex data trends to non-technical audiences  
+- Deep attention to data integrity, formatting, and interactivity  
+- Analytical thinking applied to real-world datasets—similar to residuals forecasting and reporting in media finance
+
+## Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
